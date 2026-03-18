@@ -1,0 +1,12 @@
+:root{
+--violet-doux: #6C63FF;
+--violet-fonce: #534EDD;
+--orange-vif: #FFA726;
+--girls-tres-fonce:#333;
+--girls-tres-clair:#F8F8F8;
+--girls-clair:#EEE; 
+}
+h1{
+    color: var(--violet-fonce);
+    
+}
